@@ -39,6 +39,16 @@ The Comment
 % sign is used to give the comment in MATLAB.
 ```
 <br>
+- - - -
+## Basic MATLAB Commands
+Matlab Command to clear command window.
+`>> clc`
+To Clear all variables.
+`>> clear`
+To Clear all Graph Plots.
+`>> clf`
+To Close all plots.
+`>> close all`
 
 
 
